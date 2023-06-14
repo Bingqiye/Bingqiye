@@ -7,3 +7,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bingqiye&theme=dark)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bingqiye&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<font color=#FF000 >红色</font>
+<font color=#008000 >绿色</font>
+<font color=#FFFF00 >黄色</font>
