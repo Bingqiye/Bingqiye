@@ -8,6 +8,8 @@
 * :school: **Now is a PhD student in Xia Lab, Sun Yat-Sen University (SYSU)** 
 * :smile_cat: **Cat Lover**  
 
+![Bingqiye's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Bingqiye&show_icons=true&count_private=true&theme=gotham)  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bingqiye&theme=dark)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bingqiye&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
