@@ -10,5 +10,5 @@
   
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bingqiye&theme=dark)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bingqiye&theme=dracula)](https://github.com/Bingqiye)
+[![Bingqiye's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bingqiye&theme=dracula)](https://github.com/Bingqiye)
 
