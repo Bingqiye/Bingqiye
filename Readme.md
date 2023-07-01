@@ -5,8 +5,8 @@
 # :sunglasses: <big> Hi, there! </big> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 ![](https://komarev.com/ghpvc/?username=Bingqiye)
 * :pisces: **This is `Bingqiye`!**   
-* :gift_heart: **Graduated from Zhejiang University (ZJU) in 2021**  
-* :school: **Now is a PhD student in Xia Lab, Sun Yat-Sen University (SYSU)** 
+* :gift_heart: **Graduated From Zhejiang University (ZJU) in 2021**  
+* :school: **Now is a PhD Student in Xia Lab, Sun Yat-Sen University (SYSU)** 
 * :smile_cat: **Cat Lover**
 ***
 * [Visit My Web of Science](https://www.webofscience.com/wos/author/record/IUO-3596-2023)
